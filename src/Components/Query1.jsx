@@ -25,7 +25,7 @@ function Query1() {
       const marginTop = 20;
       const marginRight = 0;
       const marginBottom = 120;
-      const marginLeft = 40;
+      const marginLeft = 70;
       const [count, setCount] = useState(0);
       const [maxValue, setMaxValue] = useState(40);
       const [barRadius, setBarRadius] = useState(2);
